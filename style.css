@@ -132,6 +132,11 @@ while the background image is loading */
   color: #661cc9;
 }
 @media (max-width: 600px) {
+  body {
+    width: 100vw;
+    margin: auto;
+    overflow: hidden;
+  }
   .grid {
     display: flex;
     flex-direction: column;
