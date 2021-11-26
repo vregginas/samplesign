@@ -131,7 +131,7 @@ while the background image is loading */
 .has-help a:hover {
   color: #661cc9;
 }
-@media (max-width: 800px) {
+@media (max-width: 600px) {
   .grid {
     display: flex;
     flex-direction: column;
