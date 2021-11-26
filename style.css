@@ -134,7 +134,7 @@ while the background image is loading */
   body {
     width: 100vw;
     margin: auto;
-    overflow: hidden;
+    overflow-x: hidden;
   }
   .grid {
     display: flex;
