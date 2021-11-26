@@ -21,6 +21,7 @@ on the container's size */
 while the background image is loading */
   background-color: #ffffff;
   font-family: "Roboto", sans-serif;
+  width:80vw;
 }
 /*.signup-steps,*/
 
